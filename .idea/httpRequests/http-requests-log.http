@@ -1,0 +1,114 @@
+DELETE http://localhost:8080/data/6
+
+<> 2023-04-17T060710.200.html
+
+###
+
+POST http://localhost:8080/data/6
+
+<> 2023-04-17T060649.200.html
+
+###
+
+POST http://localhost:8080/data/4
+
+<> 2023-04-17T060630.500.json
+
+###
+
+DELETE http://localhost:8080/data/3
+
+<> 2023-04-17T060600.200.html
+
+###
+
+DELETE http://localhost:8080/data/4
+
+###
+
+POST http://localhost:8080/data/2
+
+###
+
+GET http://localhost:8080/data
+
+<> 2023-04-17T050310.200.json
+
+###
+
+GET http://localhost:8080/data
+
+<> 2023-04-17T050250.200.json
+
+###
+
+POST http://localhost:8080/data
+
+<> 2023-04-17T050222.415.json
+
+###
+
+POST http://localhost:8080/data
+
+<> 2023-04-17T050125.415.json
+
+###
+
+POST http://localhost:8080/data
+
+<> 2023-04-17T050104.415.json
+
+###
+
+POST http://localhost:8080/data/1
+
+###
+
+POST http://localhost:8080/data
+
+<> 2023-04-17T045917.415.json
+
+###
+
+POST http://localhost:8080/show
+
+<> 2023-04-17T002521.415.json
+
+###
+
+DELETE http://localhost:8080/show
+
+<> 2023-04-17T002455.415.json
+
+###
+
+POST http://localhost:8080/show
+
+<> 2023-04-17T002237.415.json
+
+###
+
+POST http://localhost:8080/show
+
+<> 2023-04-17T002234.415.json
+
+###
+
+POST http://localhost:8080/show
+
+<> 2023-04-17T002219.415.json
+
+###
+
+POST http://localhost:8080/show
+
+<> 2023-04-17T002212.415.json
+
+###
+
+POST http://localhost:8080/show
+
+<> 2023-04-17T001922.415.json
+
+###
+

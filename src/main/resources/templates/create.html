@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>create</title>
+<!--  <script>
+      let name = document.getElementById("name").value;
+      let prise = document.getElementById("prise").value;
+    function send() {
+        const xhr = new XMLHttpRequest();
+        xhr.open("POST", "/data");
+        xhr.setRequestHeader("Content-Type", "application/Purchase");
+        let data = JSON.stringify({
+            "name": name,
+            "lastname": prise
+        });
+        xhr.send(data);
+    }
+  </script>-->
+</head>
+<body>
+<body>
+<h1 style="color: green">Create purchase</h1>
+
+<form method="post" action="/data">
+    <div>
+        <input type="text" name="name" />
+        <input type="number" name="prise" />
+    </div>
+    <div class="form-group">
+        <input type="submit" value="create">
+    </div>
+</form>
+</body>
+</body>
+</html>
